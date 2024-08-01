@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Stoicsujith
+- 👋 Hi, I’m Sujith
 - 👀 I’m interested in Combininng Bioinformatic with machine learning 
-- 🌱 I’m currently learning Masters degree in Biotechnology
-- 💞️ I’m looking to collaborate on Biofinformatic with python and machine learning
-- 📫 Reach me at sujithmp004@gmail.com
+- 📫 Reach me at sujithmp004@gmail.comm
 
 <!---
 Stoicsujith/Stoicsujith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
