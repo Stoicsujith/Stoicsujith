@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sujith
-- 👀 I’m interested in Combininng Bioinformatic with machine learning 
+- 👀 I’m interested in Combining Bioinformatic with machine learning 
 - 📫 Reach me at sujithmp004@gmail.comm
 
 <!---
