@@ -28,8 +28,9 @@ Outside of work, I enjoy learning emerging technologies, maintaining an active f
 [<img src="https://img.icons8.com/color/512/chatgpt.png" height="50" width="50"/>](https://openai.com/) &nbsp; 
 [<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="50" width="50"/>](https://claude.ai/) &nbsp; 
 [<img src="https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Emblem.png" height="50" width="80"/>](https://www.oracle.com/in/human-capital-management/) &nbsp; 
-[<img src="https://icons8.com/icon/20906/git" height="50" width="50"/>](https://git-scm.com/) &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="50" width="50"/>](https://obsidian.md/) &nbsp; 
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-git-icon-svg-download-png-1175218.png?f=webp&w=512" height="50" width="50"/>](https://github.com/Stoicsujith) &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="50" width="50"/>](https://obsidian.md/)
+
 
 
 #### Let's connect!
