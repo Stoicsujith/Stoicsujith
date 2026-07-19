@@ -14,7 +14,7 @@ Hi, I'm **Sujith MP** — an **Oracle Fusion HCM Technical Consultant** who enjo
 - **Production Support**
 
 
-I work with **Oracle Fusion HCM** to build enterprise reporting solutions, resolve production issues, and support business-critical applications. My role involves collaborating directly with business stakeholders, understanding requirements, and delivering reliable technical solutions that keep business operations running smoothly.
+I work with **Oracle Fusion HCM** to build enterprise reporting solutions, resolve production issues, and support business-critical applications. My role involves collaborating directly with business stakeholders, understanding requirements and delivering reliable technical solutions that keep business operations running smoothly.
 
 I'm currently expanding my expertise in **Oracle Integration Cloud (OIC)**, enterprise integrations, and Oracle Fusion HCM technical development as I continue growing into a techno-functional consultant.
 
