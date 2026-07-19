@@ -25,8 +25,8 @@ Outside of work, I enjoy learning emerging technologies, maintaining an active f
 [<img src="https://img.icons8.com/color/512/microsoft-sql-server.png" height="50" width="50"/>](https://www.microsoft.com/en-us/sql-server) &nbsp;
 [<img src="https://img.icons8.com/color/512/power-bi.png" height="50" width="50"/>](https://powerbi.microsoft.com/) &nbsp; 
 [<img src="https://img.icons8.com/color/512/python.png" height="50" width="50"/>](https://www.python.org/) &nbsp; 
-[<img src="https://img.icons8.com/color/512/chatgpt.png" height="50" width="50"/>](https://openai.com/)
-[<img src="https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Emblem.png" height="50" width="50"/>](https://www.oracle.com/in/human-capital-management/)
+[<img src="https://img.icons8.com/color/512/chatgpt.png" height="50" width="50"/>](https://openai.com/) &nbsp; 
+[<img src="https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Emblem.png" height="50" width="80"/>](https://www.oracle.com/in/human-capital-management/)
 
 
 #### Let's connect!
