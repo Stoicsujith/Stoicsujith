@@ -20,22 +20,12 @@ Outside of work, I enjoy learning emerging technologies, maintaining an active f
 
 
 #### Tools I Use for Data Analytics
-<!-- Oracle Fusion HCM Cloud -->
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="50" width="50"/>](https://www.oracle.com/human-capital-management/) &nbsp;&ensp;
-<!-- Oracle Integration Cloud -->
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="50" width="50"/>](https://www.oracle.com/integration/) &nbsp;&ensp;
-<!-- Oracle SQL / Oracle Database -->
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="50" width="50"/>](https://www.oracle.com/database/) &nbsp;&ensp;
-<!-- Microsoft Excel -->
-[<img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" height="50" width="50"/>](https://www.microsoft.com/microsoft-365/excel) &nbsp;&ensp;
-<!-- Obsidian -->
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Obsidian_logo.svg" height="50" width="50"/>](https://obsidian.md/) &nbsp;&ensp;
-<!-- Visual Studio Code -->
-[<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" height="50" width="50"/>](https://code.visualstudio.com/) &nbsp;&ensp;
-<!-- Python -->
-[<img src="https://img.icons8.com/color/512/python.png" height="50" width="50"/>](https://www.python.org/) &nbsp;&ensp;
-<!-- Claude -->
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="50" width="50"/>](https://claude.ai/)
+[<img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" height="50" width="50"/>](https://www.microsoft.com/microsoft-365/excel) &nbsp;&ensp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="50"/>](https://www.postgresql.org/) &nbsp;&ensp; 
+[<img src="https://img.icons8.com/color/512/microsoft-sql-server.png" height="50" width="50"/>](https://www.microsoft.com/en-us/sql-server) &nbsp;
+[<img src="https://img.icons8.com/color/512/power-bi.png" height="50" width="50"/>](https://powerbi.microsoft.com/) &nbsp; 
+[<img src="https://img.icons8.com/color/512/python.png" height="50" width="50"/>](https://www.python.org/) &nbsp; 
+[<img src="https://img.icons8.com/color/512/chatgpt.png" height="50" width="50"/>](https://openai.com/)
 
 
 #### Let's connect!
