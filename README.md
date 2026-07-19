@@ -1,35 +1,38 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1736251209/110438/pika-wave.gif" width="30"/>
 
 
-Hi, I'm **Sujith MP** — a self-taught **Data Analyst** passionate about turning raw data into actionable insights.
+Hi, I'm **Sujith MP** — an **Oracle Fusion HCM Technical Consultant** who enjoys taking ownership of technical challenges, collaborating directly with business stakeholders, and delivering reliable solutions for enterprise systems.
 
 ---
 
 #### I specialize in:
-- **Oracle Fusion HCM Technical Development**
-- **BI Publisher**
+- **Oracle Fusion HCM**
+- **Oracle Integration Cloud (OIC)**
+- **Business Stakeholder Management**
 - **SQL**
-- **Enterprise Reporting**
+- **BI Publisher**
+- **OTBI**
+- **Production Support**
 
-I work with **Oracle Fusion HCM**, **BI Publisher**, **OTBI**, **SQL**, **Microsoft Excel**, and **Visual Studio Code** to design enterprise reports, troubleshoot production issues, and deliver reporting solutions aligned with business requirements.
 
-Currently enhancing my expertise in **Oracle Integration Cloud (OIC)** while continuously strengthening my Oracle Fusion HCM technical skills.
+I work with **Oracle Fusion HCM** to build enterprise reporting solutions, resolve production issues, and support business-critical applications. My role involves collaborating directly with business stakeholders, understanding requirements, and delivering reliable technical solutions that keep business operations running smoothly.
 
-Outside of work, I enjoy learning emerging technologies, maintaining an active fitness routine, and continuously improving through disciplined learning and self-development.
+I'm currently expanding my expertise in **Oracle Integration Cloud (OIC)**, enterprise integrations, and Oracle Fusion HCM technical development as I continue growing into a techno-functional consultant.
+
+Outside of work, I enjoy building practical software, maintaining my Oracle knowledge base in Obsidian, exploring new technologies, and continuously improving through disciplined learning, fitness, and self-development.
+
 ---
 
 
-#### Tools I Use for Data Analytics
+#### Technologies I Work With
+[<img src="https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Emblem.png" height="50" width="80"/>](https://www.oracle.com/in/human-capital-management/) &nbsp;&ensp; 
 [<img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" height="50" width="50"/>](https://www.microsoft.com/microsoft-365/excel) &nbsp;&ensp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="50"/>](https://www.postgresql.org/) &nbsp;&ensp; 
 [<img src="https://img.icons8.com/color/512/microsoft-sql-server.png" height="50" width="50"/>](https://www.microsoft.com/en-us/sql-server) &nbsp;
-[<img src="https://img.icons8.com/color/512/power-bi.png" height="50" width="50"/>](https://powerbi.microsoft.com/) &nbsp; 
 [<img src="https://img.icons8.com/color/512/python.png" height="50" width="50"/>](https://www.python.org/) &nbsp; 
-[<img src="https://img.icons8.com/color/512/chatgpt.png" height="50" width="50"/>](https://openai.com/) &nbsp; 
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="50" width="50"/>](https://claude.ai/) &nbsp; 
-[<img src="https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Emblem.png" height="50" width="80"/>](https://www.oracle.com/in/human-capital-management/) &nbsp; 
+[<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" height="50" width="50"/>](https://code.visualstudio.com/) &nbsp;&ensp;
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-git-icon-svg-download-png-1175218.png?f=webp&w=512" height="50" width="50"/>](https://github.com/Stoicsujith) &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="50" width="50"/>](https://obsidian.md/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="50" width="50"/>](https://obsidian.md/) &nbsp; 
+[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="50" width="50"/>](https://claude.ai/) 
 
 
 
