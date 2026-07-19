@@ -7,7 +7,6 @@ Hi, I'm **Sujith MP** — an **Oracle Fusion HCM Technical Consultant** who enjo
 
 #### I specialize in:
 - **Oracle Fusion HCM**
-- **Oracle Integration Cloud (OIC)**
 - **Business Stakeholder Management**
 - **SQL**
 - **BI Publisher**
