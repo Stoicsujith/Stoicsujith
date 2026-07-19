@@ -6,16 +6,16 @@ Hi, I'm **Sujith MP** — a self-taught **Data Analyst** passionate about turnin
 ---
 
 #### I specialize in:
-- **Data Cleaning & Preparation**
-- **Exploratory Data Analysis (EDA)**
-- **Storytelling with Data** through visualizations
+- **Oracle Fusion HCM Technical Development**
+- **BI Publisher**
+- **SQL**
+- **Enterprise Reporting**
 
-I work with tools like **Excel**, **SQL**, **Power BI**, and **Python** to transform raw datasets into meaningful dashboards and reports that guide smart business decisions.  
-Currently expanding my skills into **web scraping** to source and analyze real-world data from the web.
+I work with **Oracle Fusion HCM**, **BI Publisher**, **OTBI**, **SQL**, **Microsoft Excel**, and **Visual Studio Code** to design enterprise reports, troubleshoot production issues, and deliver reporting solutions aligned with business requirements.
 
-I’m passionate about learning new skills, exploring the world with curiosity, and connecting with people from different walks of life.  
-I also dedicate time to fitness and workouts, and to developing mental resilience through mindfulness and self-improvement practices.
+Currently enhancing my expertise in **Oracle Integration Cloud (OIC)** while continuously strengthening my Oracle Fusion HCM technical skills.
 
+Outside of work, I enjoy learning emerging technologies, maintaining an active fitness routine, and continuously improving through disciplined learning and self-development.
 ---
 
 
