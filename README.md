@@ -1,4 +1,4 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1736251209/110438/pika-wave.gif" width="30"/>
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1736251209/110438/pika-wave.gif" width="60"/>
 
 
 Hi, I'm **Sujith MP** — an **Oracle Fusion HCM Technical Consultant** who enjoys taking ownership of technical challenges, collaborating directly with business stakeholders, and delivering reliable solutions for enterprise systems.
